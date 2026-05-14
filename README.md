@@ -1,6 +1,6 @@
 Para iniciar todo desde otri ordenador basta con poner esto en el terminal 
 
-git clone https://github.com/Barrigon3/Proyecto-Optativa.git
+git clone https://github.com/Barrigon33/Proyecto-Optativa
 
 cd Proyecto-Optativa
 
