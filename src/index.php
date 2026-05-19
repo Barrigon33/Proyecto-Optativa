@@ -52,7 +52,7 @@
     <div class="container">
         <h1>Proyecto Optativa</h1>
         <div class="author">
-            Hecho por: <strong>Jorge Barriga Sánchez hola</strong>
+            Hecho por: <strong>Jorge Barriga Sánchez</strong>
         </div>
     </div>
 
