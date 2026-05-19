@@ -1,4 +1,4 @@
-Para iniciar todo desde otri ordenador basta con poner esto en el terminal: 
+Para iniciar todo desde otro ordenador basta con poner esto en el terminal: 
 
 git clone https://github.com/Barrigon33/Proyecto-Optativa
 
